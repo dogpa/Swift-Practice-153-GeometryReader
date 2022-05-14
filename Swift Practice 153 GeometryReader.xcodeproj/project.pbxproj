@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		2DB82C87282EB0BE00159DE4 /* Swift Practice 153 GeometryReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift Practice 153 GeometryReader.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DB82C8A282EB0BE00159DE4 /* Swift_Practice_153_GeometryReaderApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_Practice_153_GeometryReaderApp.swift; sourceTree = "<group>"; };
-		2DB82C8C282EB0BE00159DE4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		2DB82C8C282EB0BE00159DE4 /* ContentView.swift */ = {isa = PBXFileReference; indentWidth = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; tabWidth = 4; usesTabs = 0; };
 		2DB82C8E282EB0BF00159DE4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2DB82C91282EB0BF00159DE4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
